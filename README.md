@@ -1,0 +1,1 @@
+# tomcat-jre8-compression
