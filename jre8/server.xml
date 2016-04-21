@@ -77,6 +77,7 @@
  <Connector port="8080"
          compression="on"
          compressionMinSize="2048"
+         address="${listening_address}"
          noCompressionUserAgents="gozilla, traviata"
          compressableMimeType="text/html,text/xml,text/plain,text/css,
          text/javascript,text/json,application/x-javascript,
